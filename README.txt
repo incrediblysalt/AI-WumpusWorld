@@ -7,4 +7,6 @@ WumpusWorld is where the agent attempts to calculate its next moves on the map, 
 
 The WumpusNode and BlindNode files, along with Queue and BQueue, go hand in hand; both are used in determining the next tile to explore, however the BlindNode and BQueue files were built for the final challenge of exploring in the dark.
 
-For a more in depth look at each iteration of the project, check out the Presentations folder to find a video exploring each step of the process!
+For a more in depth look at each iteration of the project, check out these videos: https://drive.google.com/drive/folders/1ysNcmSewz93ZvxNdzab8ZVA1ZLwHs0kR?usp=sharing
+Each video is a presentaiton talking about the goal of each step, along with videos demonstrating the code in action, and talking about how the code functions to complete the goal.
+The videos are ordered numerically, with the first being the first step, and so on.
